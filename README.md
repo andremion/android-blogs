@@ -48,7 +48,7 @@ See also: https://github.com/vbauer/java-blogs
 * André Mion https://medium.com/@andremion
 * AndroidHive http://www.androidhive.info
 * AndroidGig http://androidgig.com
-* Android Design Patterns http://androiddesignpatterns.blogspot.com
+* Android Design Patterns http://androiddesignpatterns.com
 * Android Developer http://www.therealjoshua.com/blog
 * Android Developers Backstage http://androidbackstage.blogspot.com
 * Android Social Media http://www.androidsocialmedia.com
@@ -61,6 +61,7 @@ See also: https://github.com/vbauer/java-blogs
 * Antonio Cappiello http://antoniocappiello.com
 * AppCoderz https://appcoderz.com/blog
 * Arjun U. http://arjunu.com
+* Bartek Lipinski https://medium.com/@blipinsk
 * Bill Lahti https://blahti.wordpress.com
 * Blundell http://blog.blundell-apps.com
 * Carlos Sessa https://medium.com/@Macarse
@@ -69,6 +70,7 @@ See also: https://github.com/vbauer/java-blogs
 * Chiu-Ki Chan http://blog.sqisland.com
 * Chris Banes  https://chris.banes.me
 * Christian Panadero http://panavtec.me
+* CodeChimp http://blog.codechimp.org
 * Codedependent http://graphics-geek.blogspot.com
 * Cyril Mottier http://cyrilmottier.com
 * Dan Lew http://blog.danlew.net
